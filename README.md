@@ -1,3 +1,4 @@
+[EN]
 ## Welcome to my GitHub profile.
 
 ### Here is some stuff I do:
@@ -14,6 +15,27 @@
 ES, Extremadura💚🤍🖤
 
 📚 (Currently studying) Software Engineering, UEx 📚
-📷 Photographer, Server Owner and Writer of "Fugitives from Oblivion" 📖
+📷 Photographer, Server Owner and Writer of "Fugitivos del olvido" (Fugitives from Oblivion) 📖
 🎵 LOVE Orchestral Music and Video Games 🎮
 🛐 Minecraft 🛐
+
+[ESP]
+## Bienvenido a mi perfil de GitHub.
+
+### Aquí hay algunas cosas que hago:
+
+- 🔭 Actualmente estoy trabajando en Organizador de fotografias (ODF.EXE)
+- 🌱Actualmente estoy aprendiendo C++
+- 🤗 Feliz de ayudar con cualquier cosa en la que soy bueno
+- 📫 Cómo contactarme: PiporGames#6588 o Instagram @piporgames. No estoy activo en Facebook o Twitter.
+- ⚡ Resumen corto: Desarrollador de VB.NET que codifica aplicaciones experimentales diminutas/divertidas para Windows. Alojé 6 servidores de Minecraft y mi propia cuenta de Youtube. Manteniendo la Red PiporGames desde 2013.
+- 🌍 Idiomas: Español (Castellano), Inglés (mezcla entre GB y EEUU)
+ 
+### Personal:
+
+Extremadura, España 💚🤍🖤
+
+📚 (Actualmente cursando) Ingeniería de Software, UEx 📚
+📷 Fotógrafo, dueño del servidor y escritor de "Fugitivos del olvido" 📖
+🎵 AMOR Música Orquestal y Videojuegos 🎮
+🛐Minecraft🛐
