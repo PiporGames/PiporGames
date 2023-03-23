@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to my GitHub profile.
 
-<!--
-**PiporGames/PiporGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is some stuff I do:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Organizador de fotografias (ODF.EXE)
+- 🌱 I’m currently learning C++
+- 🤗 Happy to help with anything I'm good at
+- 📫 How to reach me: PiporGames#6588 or Instagram @piporgames. Not active on Facebook nor Twitter.
+- ⚡ Sort (computer oriented) summary: VB.NET Developer who codes tiny/fun experimental apps for Windows. Hosted 6 Minecraft servers and my own Youtube accnt. Keeping up PiporGames Network since 2013.
+- 🌍 Languages: Spanish (Castillian), English (UKish, USish)
+ 
+### Personal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ES, Extremadura💚🤍🖤
+
+📚 (Currently studying) Software Engineering, UEx 📚
+📷 Photographer, Server Owner and Writer of "Fugitives from Oblivion" 📖
+🎵 LOVE Orchestral Music and Video Games 🎮
+🛐 Minecraft 🛐
