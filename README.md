@@ -1,4 +1,5 @@
-![LEFT_4_DEAD](https://user-images.githubusercontent.com/61473628/227584522-ebaa47f4-9303-49d0-8558-9cd322aa273a.png)
+
+![LEFT_4_DEAD - copia](https://user-images.githubusercontent.com/61473628/227584813-f3382582-ce7b-40bf-9520-e8813b6ff615.png)
 
 [EN]
 ## Welcome to my GitHub profile.
