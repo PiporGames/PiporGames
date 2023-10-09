@@ -3,42 +3,38 @@
 
 [EN]
 ## Welcome to my GitHub profile.
-
 ### Here is some stuff I do:
 
-- 🔭 I’m currently working on Organizador de fotografias (ODF.EXE)
-- 🌱 I’m currently learning C++
 - 🤗 Happy to help with anything I'm good at
 - 📫 How to reach me: PiporGames#6588 or Instagram @piporgames. Not active on Facebook nor Twitter.
 - ⚡ Sort (computer oriented) summary: VB.NET Developer who codes tiny/fun experimental apps for Windows. Hosted 6 Minecraft servers and my own Youtube accnt. Keeping up PiporGames Network since 2013.
+- ✏ Mostly fluent in: VB.NET ; Begginer with C++, Python ; Currently learning C, Java, SQL.
+- 🌱 Good grasp with Blender.
 - 🌍 Languages: Spanish (Castillian), English (UKish, USish)
  
 ### Personal:
-
 ES, Extremadura💚🤍🖤
 
 📚 (Currently studying) Software Engineering, UEx 📚
-📷 Photographer, Server Owner and Writer of "Fugitivos del olvido" (Fugitives from Oblivion) 📖
+📷 Photographer, Server Owner 📖
 🎵 LOVE Orchestral Music and Video Games 🎮
 🛐 Minecraft 🛐
 
 [ESP]
 ## Bienvenido a mi perfil de GitHub.
-
 ### Aquí hay algunas cosas que hago:
 
-- 🔭 Actualmente estoy trabajando en Organizador de fotografias (ODF.EXE)
-- 🌱Actualmente estoy aprendiendo C++
-- 🤗 Feliz de ayudar con cualquier cosa en la que soy bueno
-- 📫 Cómo contactarme: PiporGames#6588 o Instagram @piporgames. No estoy activo en Facebook o Twitter.
-- ⚡ Resumen corto: Desarrollador de VB.NET que codifica aplicaciones experimentales diminutas/divertidas para Windows. Alojé 6 servidores de Minecraft y mi propia cuenta de Youtube. Manteniendo la Red PiporGames desde 2013.
-- 🌍 Idiomas: Español (Castellano), Inglés (mezcla entre GB y EEUU)
+- 🤗 Contendo en ayudar con cualquier cosa en la que soy bueno
+- 📫 Cómo contactarme: PiporGames#6588 o Instagram @piporgames. No activo en Facebook ni Twitter.
+- ⚡ Resumen (orientado a computadora): Desarrollador de VB.NET que programa aplicaciones experimentales pequeñas y divertidas para Windows. Creador de 6 servidores de Minecraft y mi propia cuenta de Youtube. Manteniendo la Red PiporGames desde 2013.
+- ✏ Fluyo mejor en: VB.NET; Principiante con C++, Python; Actualmente aprendiendo C, Java, SQL.
+- 🌱Buen manejo con Blender.
+- 🌍 Idiomas: Español (Castellano), Inglés (UKish, USish)
  
 ### Personal:
+ES, Extremadura💚🤍🖤
 
-Extremadura, España 💚🤍🖤
-
-📚 (Actualmente cursando) Ingeniería de Software, UEx 📚
-📷 Fotógrafo, dueño del servidor y escritor de "Fugitivos del olvido" 📖
-🎵 AMOR Música Orquestal y Videojuegos 🎮
+📚 (Actualmente estudiando) Ingeniería de Software, UEx 📚
+📷 Fotógrafo, Server oWNER 📖
+🎵 AMO la música orquestal y los videojuegos 🎮
 🛐Minecraft🛐
