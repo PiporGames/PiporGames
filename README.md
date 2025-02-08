@@ -3,13 +3,13 @@
 
 ## Welcome to my GitHub profile. Don't expect greatness: I just goof around with things.
 
-How to reach me: Discord @piporgames. Do not reach me anywhere else.
-Good with VB.NET, still trying C/C++, Python, Java, SQL, Bash.
-Some day I will be better at Blender, trust me.
-Languages: Spanish (Castillian), English.
+How to reach me: Discord @piporgames. Do not reach me anywhere else.  
+Good with VB.NET, still trying C/C++, Python, Java, SQL, Bash.  
+Some day I will be better at Blender, trust me.  
+Languages: Spanish (Castillian), English.  
  
 ### Personal:
 ES, Extremadura💚🤍🖤
 
-(Currently studying) Software Engineering at UEx.
+(Currently studying) Software Engineering at UEx.  
 Happy to help with anything I have done before. Maybe try a wonky experiment from time to time.
