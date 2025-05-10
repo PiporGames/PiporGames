@@ -14,7 +14,7 @@ Other socials: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-de-torres
 
 > [!IMPORTANT]
 > Do not try to contact me outside of the socials/methods described bellow.  
-> You'll be blocked (most likekly).
+> You'll be blocked (most likely).
 
 ### Skills:
 Software engineering studies
@@ -25,4 +25,5 @@ Languages: Spanish (Castillian), English (B2~C1).
 ### Personal:
 ES, Extremadura, Cáceres
 (Currently studying) Software Engineering at UEx.  
-Happy to help with anything I have done before. Maybe try a funky experiment from time to time.
+Happy to help with anything I have done before.  
+Maybe try a funky experiment from time to time.
