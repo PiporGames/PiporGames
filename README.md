@@ -3,13 +3,26 @@
 
 ## Welcome to my GitHub profile. Don't expect greatness: I just goof around with things.
 
-How to reach me: Discord @piporgames. Do not reach me anywhere else.  
-Good with VB.NET, still trying C/C++, Python, Java, SQL, Bash.  
-Some day I will be better at Blender, trust me.  
-Languages: Spanish (Castillian), English.  
+> [!TIP]
+> Want to know the latest news? Want to peek at my current projects?.  
+> Take a look here: [PGN Connector](http://pgnweb.ddns.net)
+
+### Contact:
+Reach me at Discord [@piporgames](https://discordapp.com/users/281534689406222338)  
+Bussiness contact: josemanueldtd@gmail.com  
+Other socials: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-de-torres-dominguez-a58793304/)
+
+> [!IMPORTANT]
+> Do not try to contact me outside of the socials/methods described bellow.  
+> You'll be blocked (most likekly).
+
+### Skills:
+Software engineering studies
+Programmed with VB.NET, C/C++, Python, Java, (Oracle) SQL, Bash.  
+Worked with Visual Studio/Code, Eclipse, IntelliJ, Office Suite, Blender,  
+Languages: Spanish (Castillian), English (B2~C1).  
  
 ### Personal:
-ES, Extremadura💚🤍🖤
-
+ES, Extremadura, Cáceres
 (Currently studying) Software Engineering at UEx.  
-Happy to help with anything I have done before. Maybe try a wonky experiment from time to time.
+Happy to help with anything I have done before. Maybe try a funky experiment from time to time.
