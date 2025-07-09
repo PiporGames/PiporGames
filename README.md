@@ -1,6 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/61473628/227584813-f3382582-ce7b-40bf-9520-e8813b6ff615.png" width=25% height=25%>
-
 ## Welcome to my GitHub profile.  
 Don't expect greatness: I just goof around with things.
 
