@@ -2,7 +2,7 @@
 Don't expect greatness: I just goof around with things.
 
 > [!TIP]
-> Want to know the latest news? Want to peek at my current projects?.  
+> Interested on my ongoing projects and/or services?  
 > Take a look here: [PGN Connector](http://pgnweb.ddns.net)
 
 ### Contact:
@@ -12,10 +12,10 @@ Other socials: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?s
 
 > [!IMPORTANT]
 > Do not try to contact me outside of the socials/methods described bellow.  
-> You'll be blocked (most likely).
+> You'll be blocked.
 
 ### Skills:
-Software engineering studies  
+Software engineering studies at Universidad of Extremadura, Caceres, Spain 
   
 ✏ Programmed in  
 ![VB.Net](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-39477F?style=for-the-badge&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -27,7 +27,5 @@ Software engineering studies
 ![Spanish (Native)](https://img.shields.io/badge/🇪🇸%20ESPAÑOL%20(Nativo)-C81D11.svg?style=for-the-badge), ![English](https://img.shields.io/badge/🇬🇧%20ENGLISH%20(B2.C1)-00599C.svg?style=for-the-badge).  
  
 ### Personal:
-ES, Extremadura, Cáceres  
-(Currently studying) Software Engineering at UEx.  
 Happy to help with anything I have done before.  
 Maybe try a funky experiment from time to time.
