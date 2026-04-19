@@ -23,6 +23,7 @@ I like building useful small things/tools, leaving room for the occasional funky
 ## Featured lists
 
 [![Featured projects](https://img.shields.io/badge/%E2%AD%90%20Featured%20projects-F4B400?style=for-the-badge)](https://github.com/stars/PiporGames/lists/destacados)
+[![Featured projects](https://img.shields.io/badge/%E2%AD%90%20Personal%20projects-800080?style=for-the-badge)](https://github.com/stars/PiporGames/lists/proyectos-personales)
 [![University projects](https://img.shields.io/badge/%F0%9F%8E%93%20University%20projects-2EA043?style=for-the-badge)](https://github.com/stars/PiporGames/lists/proyectos-universitarios)
 
 ## Tech profile
