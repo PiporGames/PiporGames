@@ -7,7 +7,7 @@ I like building useful small things/tools, leaving room for the occasional funky
 > Are you looking for my online services?  
 > Check out the PiporGames Network landing page: [piporgames.es](https://piporgames.es)
 
-## Ask me something:
+## Ask me something...
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/281534689406222338)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-manuel-de-torres-dominguez-a58793304/)
@@ -20,10 +20,10 @@ I like building useful small things/tools, leaving room for the occasional funky
 > [!IMPORTANT]
 > Please contact me only through the channels listed above.
 
-## Featured lists
+## Featured repos
 
 [![Featured projects](https://img.shields.io/badge/%E2%AD%90%20Featured%20projects-F4B400?style=for-the-badge)](https://github.com/stars/PiporGames/lists/destacados)
-[![Featured projects](https://img.shields.io/badge/%E2%AD%90%20Personal%20projects-800080?style=for-the-badge)](https://github.com/stars/PiporGames/lists/proyectos-personales)
+[![Personal projects](https://img.shields.io/badge/%F0%9F%94%A7_Personal_projects-purple?style=for-the-badge)](https://github.com/stars/PiporGames/lists/proyectos-personales)
 [![University projects](https://img.shields.io/badge/%F0%9F%8E%93%20University%20projects-2EA043?style=for-the-badge)](https://github.com/stars/PiporGames/lists/proyectos-universitarios)
 
 ## Tech profile
